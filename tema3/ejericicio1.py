@@ -1,0 +1,9 @@
+nombre = "Gisela"
+apellidos = "Garcia Espinoza"
+edad = 37
+email = "gys.espinoza@gmail.com"
+telefono = "50375813199"
+casado = False
+conHijos = False
+lista_amigos = ['Carol', 'Fany', 'Gaby']
+peliculas_vistas = {'Pelicula1': 'La Colonia', 'Pelicula2': 'La vida es bella'}
